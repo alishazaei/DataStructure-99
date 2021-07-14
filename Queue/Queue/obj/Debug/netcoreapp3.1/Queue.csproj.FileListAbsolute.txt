@@ -1,0 +1,11 @@
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+E:\sakhteman dade\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+E:\sakhteman dade\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+E:\sakhteman dade\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+E:\sakhteman dade\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+E:\sakhteman dade\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+E:\sakhteman dade\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb

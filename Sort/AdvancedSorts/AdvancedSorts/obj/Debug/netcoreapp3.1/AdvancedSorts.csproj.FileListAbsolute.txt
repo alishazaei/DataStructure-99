@@ -1,0 +1,11 @@
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.exe
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.deps.json
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.runtimeconfig.json
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.runtimeconfig.dev.json
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.dll
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\bin\Debug\netcoreapp3.1\AdvancedSorts.pdb
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\obj\Debug\netcoreapp3.1\AdvancedSorts.csprojAssemblyReference.cache
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\obj\Debug\netcoreapp3.1\AdvancedSorts.AssemblyInfoInputs.cache
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\obj\Debug\netcoreapp3.1\AdvancedSorts.AssemblyInfo.cs
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\obj\Debug\netcoreapp3.1\AdvancedSorts.dll
+E:\sakhteman dade\Sort\AdvancedSorts\AdvancedSorts\obj\Debug\netcoreapp3.1\AdvancedSorts.pdb

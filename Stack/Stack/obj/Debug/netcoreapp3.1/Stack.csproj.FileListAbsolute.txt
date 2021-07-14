@@ -1,0 +1,11 @@
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+E:\sakhteman dade\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+E:\sakhteman dade\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+E:\sakhteman dade\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+E:\sakhteman dade\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+E:\sakhteman dade\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+E:\sakhteman dade\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb

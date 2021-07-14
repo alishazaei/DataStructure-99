@@ -1,0 +1,11 @@
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.exe
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.deps.json
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.runtimeconfig.json
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.runtimeconfig.dev.json
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.dll
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\bin\Debug\netcoreapp3.1\SparseMatrix-FullPack.pdb
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\obj\Debug\netcoreapp3.1\SparseMatrix-FullPack.csprojAssemblyReference.cache
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\obj\Debug\netcoreapp3.1\SparseMatrix-FullPack.AssemblyInfoInputs.cache
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\obj\Debug\netcoreapp3.1\SparseMatrix-FullPack.AssemblyInfo.cs
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\obj\Debug\netcoreapp3.1\SparseMatrix-FullPack.dll
+E:\sakhteman dade\arrays\SparseMatrix-FullPack\SparseMatrix-FullPack\obj\Debug\netcoreapp3.1\SparseMatrix-FullPack.pdb

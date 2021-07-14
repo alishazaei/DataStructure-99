@@ -1,0 +1,11 @@
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.exe
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.deps.json
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.runtimeconfig.json
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.runtimeconfig.dev.json
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.dll
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\bin\Debug\netcoreapp3.1\SparseMatrix.pdb
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\obj\Debug\netcoreapp3.1\SparseMatrix.csprojAssemblyReference.cache
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\obj\Debug\netcoreapp3.1\SparseMatrix.AssemblyInfoInputs.cache
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\obj\Debug\netcoreapp3.1\SparseMatrix.AssemblyInfo.cs
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\obj\Debug\netcoreapp3.1\SparseMatrix.dll
+E:\sakhteman dade\arrays\SparseMatrix\SparseMatrix\obj\Debug\netcoreapp3.1\SparseMatrix.pdb
